@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Ahamed Nasith S — Frontend Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern personal portfolio website showcasing my professional experience, technical skills, selected projects, case studies, and frontend development work.
 
-## Available Scripts
+I am a frontend developer with 3+ years of professional experience, primarily working with React.js and Next.js, with practical experience in Node.js, REST APIs, authentication, real-time applications, third-party integrations, and full-stack development.
 
-In the project directory, you can run:
+## About Me
 
-### `npm start`
+I'm **Ahamed Nasith S**, a Frontend Developer specializing in building responsive, scalable, and user-focused web applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+My primary expertise is in **React.js and Next.js**, with hands-on experience developing reusable UI components, complex application workflows, dashboards, REST API integrations, authentication systems, real-time interfaces, and business applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I also have practical backend experience with **Node.js and Express.js**, including API development, authentication, database integration, and full-stack application development.
 
-### `npm test`
+## Portfolio Sections
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Introduction
+- About Me
+- Professional Experience
+- Technical Skills
+- Featured Projects
+- Professional Case Studies
+- Selected Contributions
+- Education
+- Contact
+- Resume Download
 
-### `npm run build`
+### Tools & Deployment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Git
+- GitHub
+- Vercel
+- Postman
+- ApexCharts.js
+- SEO
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Portfolio Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This portfolio website is built with:
 
-### `npm run eject`
+- React 19
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- React Router
+- Lucide React
+- React Icons
+- React Toastify
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+src/
+├── components/
+│   ├── header/
+│   ├── footer/
+│   ├── images/
+│   ├── utils/
+│   │   └── AhamedNasithS-Resume.pdf
+│   │
+│   └── pages/
+│       └── Home/
+│           ├── Hero.jsx
+│           ├── About.jsx
+│           ├── Experience.jsx
+│           ├── Skills.jsx
+│           ├── Projects.jsx
+│           ├── CaseStudies.jsx
+│           ├── Contributions.jsx
+│           ├── Education.jsx
+│           ├── Contact.jsx
+│           └── index.jsx
+│
+├── App.js
+├── index.js
+└── index.css
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built with React, Tailwind CSS, and Framer Motion to showcase real-world frontend development experience, full-stack projects, and professional engineering contributions.
